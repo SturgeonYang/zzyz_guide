@@ -14,6 +14,8 @@ description: 邮箱:guide.zzyz@outlook.com
 
 下载飞书APP 或 飞书电脑版，注册账号后扫描运营团队的二维码 或 填写邀请码，即可加入团队。
 
+<figure><img src=".gitbook/assets/邀请二维码.jpg" alt="下载飞书-扫描图中二维码" width="188"><figcaption></figcaption></figure>
+
 > * 值得注意的是，如果您在飞书云文档上编写，请注意尊重他人的劳动成果，不要误删或篡改他人的文章内容，否则将被移出团队并进入黑名单。
 > * 飞书自动使用markdown语法进行编辑，很容易上手。
 > * 飞书的文章编写功能非常丰富，希望您在编写的时候积极探索，例如：

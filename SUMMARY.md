@@ -1,6 +1,7 @@
 # Table of contents
 
-* [加入我们](README.md)
+* [待更新内容](README.md)
+* [加入我们](<README (1).md>)
 * [前言](qian-yan/README.md)
   * [序](序言与目录/前言.md)
   * [声明](序言与目录/声明.md)
@@ -8,6 +9,7 @@
   * [“我”眼中的漳一(限西湖校区)](学校概述/“我”眼中的漳一（限西湖校区）.md)
 * [学园生活](xue-yuan-sheng-huo/README.md)
   * [社团与学生会](xue-yuan-sheng-huo/she-tuan-yu-xue-sheng-hui/README.md)
+    * [学生会](xue-yuan-sheng-huo/she-tuan-yu-xue-sheng-hui/xue-sheng-hui.md)
     * [漳州一中社团联合会](学园生活/社团与学生会/漳州一中社团联合会.md)
   * [选修课](xue-yuan-sheng-huo/xuan-xiu-ke/README.md)
     * [课程介绍（音体美＋选修兴趣课）](学园生活/选修课/课程介绍（音体美＋选修兴趣课）.md)

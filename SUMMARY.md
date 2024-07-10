@@ -37,3 +37,4 @@
 * [好物分享](hao-wu-fen-xiang/README.md)
   * [宿舍好物](好物分享/宿舍好物.md)
   * [文具分享](好物分享/文具分享.md)
+* [支持我们](zhi-chi-wo-men.md)

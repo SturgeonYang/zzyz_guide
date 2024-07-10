@@ -6,7 +6,7 @@
   * [序](qian-yan/qian-yan.md)
   * [声明](qian-yan/sheng-ming.md)
 * [学校概述](xue-xiao-gai-shu/README.md)
-  * [“我”眼中的漳一(限西湖校区)](xue-xiao-gai-shu/wo-yan-zhong-de-zhang-yi-xian-xi-hu-xiao-qu.md)
+  * ["我"眼中的漳一](xue-xiao-gai-shu/wo-yan-zhong-de-zhang-yi-xian-xi-hu-xiao-qu.md)
 * [学园生活](xue-yuan-sheng-huo/README.md)
   * [社团与学生会](xue-yuan-sheng-huo/she-tuan-yu-xue-sheng-hui/README.md)
     * [学生会](xue-yuan-sheng-huo/she-tuan-yu-xue-sheng-hui/xue-sheng-hui.md)

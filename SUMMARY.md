@@ -7,7 +7,7 @@
   * [声明](qian-yan/sheng-ming.md)
 * [新生导航](xin-sheng-dao-hang.md)
 * [学校概述](xue-xiao-gai-shu/README.md)
-  * ["我"眼中的漳一](xue-xiao-gai-shu-1/wo-yan-zhong-de-zhang-yi-xian-xi-hu-xiao-qu.md)
+  * ["我"眼中的漳一](xue-xiao-gai-shu/wo-yan-zhong-de-zhang-yi-xian-xi-hu-xiao-qu.md)
 * [学园生活](xue-yuan-sheng-huo/README.md)
   * [社团与学生会](xue-yuan-sheng-huo/she-tuan-yu-xue-sheng-hui/README.md)
     * [学生会](xue-yuan-sheng-huo/she-tuan-yu-xue-sheng-hui/xue-sheng-hui.md)

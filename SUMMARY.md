@@ -18,6 +18,7 @@
   * [互联网的利用](xue-xi-fang-fa/hu-lian-wang-de-li-yong.md)
   * [问问题的艺术](xue-xi-fang-fa/wen-wen-ti-de-yi-shu.md)
   * [习题选择](xue-xi-fang-fa/xi-ti-xuan-ze.md)
+  * [劳逸结合](xue-xi-fang-fa/lao-yi-jie-he.md)
 * [立志与求学](li-zhi-yu-qiu-xue/README.md)
   * [竞赛](li-zhi-yu-qiu-xue/jing-sai/README.md)
     * [数学竞赛](li-zhi-yu-qiu-xue/jing-sai/shu-xue-jing-sai.md)

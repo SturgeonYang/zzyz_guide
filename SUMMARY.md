@@ -15,6 +15,8 @@
     * [课程介绍（音体美＋选修兴趣课）](xue-yuan-sheng-huo/xuan-xiu-ke/ke-cheng-jie-shao-yin-ti-mei-xuan-xiu-xing-qu-ke.md)
     * [选课机制介绍](xue-yuan-sheng-huo/xuan-xiu-ke/xuan-ke-ji-zhi-jie-shao.md)
 * [学习方法](xue-xi-fang-fa/README.md)
+  * [科目经验杂谈](xue-xi-fang-fa/ke-mu-jing-yan-za-tan/README.md)
+    * [科目经验杂谈](xue-xi-fang-fa/ke-mu-jing-yan-za-tan/li-shi-yu-yu-wen.md)
   * [互联网的利用](xue-xi-fang-fa/hu-lian-wang-de-li-yong.md)
   * [问问题的艺术](xue-xi-fang-fa/wen-wen-ti-de-yi-shu.md)
   * [习题选择](xue-xi-fang-fa/xi-ti-xuan-ze.md)

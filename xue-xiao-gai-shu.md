@@ -40,7 +40,7 @@ description: ——漳州一中学生会/社团联合会
 
 
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 注意！图中联系电话不一定仍有效！可能存在人员调度！
 {% endhint %}
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👬 加入我们](README.md)
+* [😉 加入我们](README.md)
 * [🙏 待更新内容](dai-geng-xin-nei-rong.md)
 * [📖 前言](qian-yan/README.md)
   * [序](qian-yan/qian-yan.md)

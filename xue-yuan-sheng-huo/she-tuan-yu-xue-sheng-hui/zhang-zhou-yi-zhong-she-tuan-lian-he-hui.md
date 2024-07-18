@@ -3,7 +3,7 @@
 
 
 {% hint style="info" %}
-注意！图中的社团QQ群号已不适用，请按新海报加入新一届社团群！
+注意！图中的社团QQ群号已不适用，请通过其他渠道加入新一届社团群！
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/969b2181802d4d3da96914b25ab8e3dcOP3Z6agwsXkg33tv-0.jpg" alt=""><figcaption></figcaption></figure>

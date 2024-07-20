@@ -12,7 +12,7 @@
 * [🥜 学园生活](xue-yuan-sheng-huo/README.md)
   * [🎹 社团与学生会](xue-yuan-sheng-huo/she-tuan-yu-xue-sheng-hui/README.md)
     * [学生会](xue-yuan-sheng-huo/she-tuan-yu-xue-sheng-hui/xue-sheng-hui.md)
-    * [社团活动](xue-yuan-sheng-huo/she-tuan-yu-xue-sheng-hui/zhang-zhou-yi-zhong-she-tuan-lian-he-hui.md)
+    * [社团介绍](xue-yuan-sheng-huo/she-tuan-yu-xue-sheng-hui/zhang-zhou-yi-zhong-she-tuan-lian-he-hui.md)
   * [🎻 选修课](xue-yuan-sheng-huo/xuan-xiu-ke/README.md)
     * [课程介绍（音体美＋选修兴趣课）](xue-yuan-sheng-huo/xuan-xiu-ke/ke-cheng-jie-shao-yin-ti-mei-xuan-xiu-xing-qu-ke.md)
     * [选课机制介绍](xue-yuan-sheng-huo/xuan-xiu-ke/xuan-ke-ji-zhi-jie-shao.md)

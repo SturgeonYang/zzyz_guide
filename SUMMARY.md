@@ -8,7 +8,7 @@
 * [🗺️ 新生导航](xin-sheng-dao-hang/README.md)
   * [🐧 Q群列表](xin-sheng-dao-hang/q-qun-lie-biao.md)
   * [📍 衣食住行漫游指南](xin-sheng-dao-hang/yi-shi-zhu-xing-man-you-zhi-nan.md)
-  * [📺 漳州一中摄影协会](https://space.bilibili.com/486889636)
+  * [📺 学校视频记录](https://space.bilibili.com/486889636)
 * [🥜 学园生活](xue-yuan-sheng-huo/README.md)
   * [🎹 社团与学生会](xue-yuan-sheng-huo/she-tuan-yu-xue-sheng-hui/README.md)
     * [学生会](xue-yuan-sheng-huo/she-tuan-yu-xue-sheng-hui/xue-sheng-hui.md)

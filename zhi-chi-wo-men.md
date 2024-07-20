@@ -2,7 +2,7 @@
 description: 如果您有任何疑问，联系邮箱：guide.zzyz@outlook.com
 ---
 
-# 支持我们
+# 💸 支持我们
 
 ## 开销说明
 

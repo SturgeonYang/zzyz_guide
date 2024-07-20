@@ -2,7 +2,7 @@
 description: ——漳州一中学生会/社团联合会
 ---
 
-# 🧑‍🎓 衣食住行漫游指南
+# 📍 衣食住行漫游指南
 
 <figure><img src="../.gitbook/assets/efe36e43481b48f284c91c18a8af772cXOWXrTRTGW4KsqPY-0.jpg" alt=""><figcaption></figcaption></figure>
 

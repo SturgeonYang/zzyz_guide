@@ -7,6 +7,7 @@
   * [序](qian-yan/qian-yan.md)
   * [声明](qian-yan/sheng-ming.md)
 * [🗺️ 新生导航](xin-sheng-dao-hang/README.md)
+  * [🔔 27届新生指南](xin-sheng-dao-hang/27-jie-xin-sheng-zhi-nan.md)
   * [🐧 Q群列表&官号](xin-sheng-dao-hang/q-qun-lie-biao-guan-hao.md)
   * [📍 衣食住行漫游指南](xin-sheng-dao-hang/yi-shi-zhu-xing-man-you-zhi-nan.md)
   * [📺 学校视频记录](https://space.bilibili.com/486889636)

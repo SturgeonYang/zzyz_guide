@@ -2,6 +2,7 @@
 
 * [🎉 加入我们](README.md)
 * [🙏 待更新内容](dai-geng-xin-nei-rong.md)
+* [💸 支持我们](zhi-chi-wo-men.md)
 * [📖 前言](qian-yan/README.md)
   * [序](qian-yan/qian-yan.md)
   * [声明](qian-yan/sheng-ming.md)
@@ -42,4 +43,3 @@
 * [💡 好物分享](hao-wu-fen-xiang/README.md)
   * [宿舍好物](hao-wu-fen-xiang/su-she-hao-wu.md)
   * [学习好物](hao-wu-fen-xiang/wen-ju-fen-xiang.md)
-* [💸 支持我们](zhi-chi-wo-men.md)

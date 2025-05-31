@@ -1,5 +1,21 @@
 ---
 description: 邮箱:guide.zzyz@outlook.com
+cover: .gitbook/assets/DJI_0748-已增强-NR.png
+coverY: 34.354366481574964
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🎉 加入我们
